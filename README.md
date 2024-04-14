@@ -6,7 +6,9 @@ This is Wahg Mobile App - It's a wedding app
 ## This Projected Developed on:
 
 I Started this project with:
-macOS: 12.6.8,
+
+• macOS: 12.6.8,
+
 • Flutter version 3.16.4 on channel stable
 
 • Dart version 3.2.3
