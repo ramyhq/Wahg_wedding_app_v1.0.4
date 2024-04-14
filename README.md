@@ -11,14 +11,14 @@ This is Wahg Mobile App - It's a wedding app
      <td></td>
   </tr>
   <tr>
-    <td><img src="ScreenShot/1.png" </td>
+    <td><img src="ScreenShot/1.png" ></td>
     <td><img src="ScreenShot/2.png" ></td>
     <td><img src="ScreenShot/3.png" ></td>
   </tr>
    
   <tr>
-    <td><img src="ScreenShot/4.png" </td>
-    <td><img src="ScreenShot/5.png" </td>
+    <td><img src="ScreenShot/4.png" ></td>
+    <td><img src="ScreenShot/5.png" ></td>
   </tr>
   
  </table>
@@ -50,8 +50,11 @@ I Upgraded Flutter from 3.16.4 to Flutter 3.19.0
 - AppSettingsCache class
 - MaterialApp keyed Route & onGenerateRoute 
 - Theme Change
+- Responsive Ui
+- URL & calls Launcher
 
 
 Auth:
 - Login/register with email and password
 - forget password
+- Edit Profile Data
