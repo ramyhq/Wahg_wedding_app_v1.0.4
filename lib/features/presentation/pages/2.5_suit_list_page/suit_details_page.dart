@@ -157,35 +157,35 @@ class _SuitDetailsPageScreenState extends State<SuitDetailsPageScreen> {  Future
                                     style: CustomTextStyles.hallsDetailsDesTitleText,
                                   ),
                                   /// Contact us
-                                  Column(
-                                    children: [
-                                      Text(
-                                        "lbl_contact_us".tr,
-                                        overflow: TextOverflow.ellipsis,
-                                        textAlign: TextAlign.left,
-                                        style: CustomTextStyles.hallsDetailsContactUsText,
-                                      ),
-
-                                      Row(children: [
-                                        CustomImageView(
-                                          imagePath: ImageAsset.imgIconFacebook,
-                                          height: 35.v,
-                                          width: 35.h,
-                                          alignment: Alignment.center,
-                                          fit: BoxFit.contain,
-
-                                        ),
-                                        CustomImageView(
-                                          imagePath: ImageAsset.imgIconWhatsapp,
-                                          height: 35.v,
-                                          width: 35.h,
-                                          alignment: Alignment.center,
-                                          fit: BoxFit.contain,
-
-                                        ),
-                                      ],)
-                                    ],
-                                  ),
+                                  // Column(
+                                  //   children: [
+                                  //     Text(
+                                  //       "lbl_contact_us".tr,
+                                  //       overflow: TextOverflow.ellipsis,
+                                  //       textAlign: TextAlign.left,
+                                  //       style: CustomTextStyles.hallsDetailsContactUsText,
+                                  //     ),
+                                  //
+                                  //     Row(children: [
+                                  //       CustomImageView(
+                                  //         imagePath: ImageAsset.imgIconFacebook,
+                                  //         height: 35.v,
+                                  //         width: 35.h,
+                                  //         alignment: Alignment.center,
+                                  //         fit: BoxFit.contain,
+                                  //
+                                  //       ),
+                                  //       CustomImageView(
+                                  //         imagePath: ImageAsset.imgIconWhatsapp,
+                                  //         height: 35.v,
+                                  //         width: 35.h,
+                                  //         alignment: Alignment.center,
+                                  //         fit: BoxFit.contain,
+                                  //
+                                  //       ),
+                                  //     ],)
+                                  //   ],
+                                  // ),
                                 ],
                               ),
                             ),
